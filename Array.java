@@ -1,3 +1,6 @@
+// creating and printing an array 
+
+
 import java.util.Arrays;
 
 public class Array {
@@ -14,3 +17,9 @@ System.out.println(Arrays.toString(nums));
 
 }
 }
+
+
+
+
+
+
